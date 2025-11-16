@@ -1,0 +1,1 @@
+console.log("Hello Rorie! Welcome to your Adaptive Fitness Javascript journey!");
